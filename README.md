@@ -10,7 +10,7 @@ NLTK: The Natural Language Toolkit, used for text preprocessing.
 Transformers (Hugging Face): A library for natural language processing tasks, used here for sentiment analysis.
 Seaborn: For data visualization
 
-Key Features
+Key Features : 
 Fetch YouTube Comments: Fetches comments from a given YouTube video using the YouTube Data API.
 Text Preprocessing: Cleans and preprocesses the comments to prepare them for sentiment analysis.
 Sentiment Analysis: Uses a pre-trained DistilBERT model to analyze the sentiment of each comment.
